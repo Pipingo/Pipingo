@@ -3,7 +3,9 @@
 - 🎓 Systems Engineering Student at Universidad Latina de Costa Rica.
 - 🛡️ Passionate about Cybersecurity, Network Infrastructure, and Software Development.
 - 💻 Tech Stack: JavaScript, React Native, Java (Spring Boot), Python, Cisco NetAcad, Firebase.
-- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/tu-perfil-aqui)
+- 📬 How to reach me: [LinkedIn](www.linkedin.com/in/edward-parra-502296357
+
+)
 
 ### 🛠️ Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
