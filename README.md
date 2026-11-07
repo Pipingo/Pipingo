@@ -1,15 +1,13 @@
-# Hi there, I'm Edward Parra 👋
+### Hi there, I'm Edward Parra 👋
 
-- 🎓 Systems Engineering Student at Universidad Latina de Costa Rica.
-- 🛡️ Passionate about Cybersecurity, Network Infrastructure, and Software Development.
-- 💻 Tech Stack: JavaScript, React Native, Java (Spring Boot), Python, Cisco NetAcad, Firebase.
-- 📬 How to reach me: [LinkedIn](www.linkedin.com/in/edward-parra-502296357
+🎓 Computer Systems Engineering student at Universidad Latina de Costa Rica.
 
-)
+💻 Junior Software Developer interested in backend engineering, databases, automation, and data-intensive applications.
 
-### 🛠️ Languages & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+🛠️ **Tech Stack:** Python, JavaScript, Node.js, Express, React, PostgreSQL, SQL, Java, C#/.NET, Git, and REST APIs.
+
+🚀 Currently developing a municipal web application for tracking administrative procedures, deadlines, and notifications.
+
+🔍 Interested in building reliable software, solving technical challenges, and continuously learning.
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/edward-parra-jara-502296357/)
